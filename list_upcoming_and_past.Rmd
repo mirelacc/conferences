@@ -1,10 +1,13 @@
 
-Check back regularly :)
+
+Still to come - check streams:
 
 - https://ccneuro.org 
+- http://www.vldb.org/2017/
+
+Past - check documentation
 
 - https://fscons.org/2016/
-
 - https://fosdem.org/2017/
-
+ 
 

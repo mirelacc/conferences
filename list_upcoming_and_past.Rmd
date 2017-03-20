@@ -2,7 +2,7 @@
 
 Still to come - check streams:
 
-- https://ccneuro.org 
+- www.ccneuro.org 
 - http://www.vldb.org/2017/
 
 Past - check documentation

@@ -4,6 +4,7 @@ Still to come - check streams:
 
 - www.ccneuro.org 
 - http://www.vldb.org/2017/
+- http://www.ieee-security.org/TC/EuroSP2017/
 
 Past - check documentation
 
